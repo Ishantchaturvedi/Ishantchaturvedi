@@ -1,5 +1,12 @@
 ## Hi I'm Ishant👋
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning MERN Stack Development
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ishantchaturvedi123@gmail.com
+
 <!--
 **Ishantchaturvedi/Ishantchaturvedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
