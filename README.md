@@ -6,7 +6,7 @@
    algorithms, I strive to create robust and optimized code. I am constantly expanding my skills and staying up-to-date with 
    the latest advancements in the field of software development.</h4>
 
--  I’m currently working on Projects
+-  I’m currently working on Projects Front-end Development
 -  I’m currently learning MERN Stack Development
 -  How to reach me: ishantchaturvedi123@gmail.com
 
