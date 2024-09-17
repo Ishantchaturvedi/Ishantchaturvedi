@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Ishant👋</h1>
 <h3 align="center">A Possionate Software Developer from India</h3>
 
-<h4 align="center">I am a passionate software engineer with expertise in problem-solving and algorithmic thinking. I love to explore various 
+<h4 align="left">I am a passionate software engineer with expertise in problem-solving and algorithmic thinking. I love to explore various 
    technologies and frameworks to develop efficient and scalable solutions. With a strong foundation in data structures and 
    algorithms, I strive to create robust and optimized code. I am constantly expanding my skills and staying up-to-date with 
    the latest advancements in the field of software development.</h4>
